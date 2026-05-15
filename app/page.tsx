@@ -68,6 +68,8 @@ export default function FlyerPage() {
               </div>
             </div>
 
+            
+
             {/* Menú Destacado */}
             <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-lg p-2 mb-2 border-2 border-amber-300">
               <span className="text-xs font-black text-slate-800 uppercase tracking-widest block mb-2">Menú: Pollo • Trucha • Papas • Choclo • Ensalada • Chicha</span>
